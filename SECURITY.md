@@ -1,21 +1,7 @@
-# Security Policy
+# Security
 
-## Supported Versions
+This project is a fictional training simulator. Do not add missions that target real systems, public IPs, real credentials, phishing flows, malware payloads, or exfiltration workflows.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Accepted content must stay within simulated lab targets such as `lab-*`, `corp.local`, `acme.local`, `10.10.10.0/24`, `10.13.37.0/24`, and local virtual folders.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Report safety issues by opening a GitHub issue with the label `safety`.
