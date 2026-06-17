@@ -2,8 +2,9 @@
 name: Apple engineering task
 about: SwiftUI, iCloud, Game Center, Catalyst or accessibility work
 title: "[apple] "
-labels: apple, engineering
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## Goal

@@ -2,8 +2,9 @@
 name: Mission pack proposal
 about: Propose a safe school or CTF mission pack
 title: "[mission-pack] "
-labels: curriculum, mission-design
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## Audience
